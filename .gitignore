@@ -1,2 +1,11 @@
 # Pyenv
 .python-version
+
+# Pycache
+__pycache__
+
+# Models
+models
+
+# env
+.env

@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+prophet
+matplotlib
+seaborn
+openpyxl
+holidays
+requests
+python-dotenv
+fmiopendata
